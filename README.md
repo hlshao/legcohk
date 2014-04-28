@@ -1,6 +1,12 @@
-# LegCoHK
+Please go to the [code4hk/legcohk](https://github.com/code4hk/legcohk) repo.
 
-Needs an introduction here.
+This repo is freezed.
+It is forked here to not make any dangling backlinks.
+
+---------
+
+
+# LegCoHK
 
 Use:
 
